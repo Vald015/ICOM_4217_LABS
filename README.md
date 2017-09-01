@@ -1,1 +1,3 @@
-"# ID_GPIOs_LCD_4217" 
+# ICOM 4217 - Embedded Systems Design
+Laboratory work.
+University of Puerto Rico Mayaguez Campus
